@@ -16,7 +16,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 
-version = '1.0'
+version = '0.5'
 group = 'com.skitbet.betterdifficulty' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'betterdifficulty'
 
